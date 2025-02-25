@@ -77,7 +77,11 @@ namespace FilmesAPI.Controllers
         [HttpPost]
        
   🎁 Expressões de gratidão
+  
   Conte a outras pessoas sobre este projeto 📢;
+  
   Convide alguém da equipe para se juntar nessa contigo 🥰;
+  
   Um agradecimento publicamente 🫂;
+  
   etc.
