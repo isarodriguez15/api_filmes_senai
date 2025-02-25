@@ -1,5 +1,6 @@
 API_filmes_senai
-Esse projeto sobre a API no visual studios. 
+
+Esse projeto sobre a API  desenvolvido utilizando visual studios. 
 
 🚀 Começando
 
